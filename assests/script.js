@@ -27,22 +27,22 @@ function generatePassword() {
 
   var lowercaseConfirm = confirm('Would you like to use lowercase letters?');
   if (lowercaseConfirm) {
-      options += lowercase [Math.floor(Math.random() * lowercase.length)];
+      options += lowercase;
   }
 
   var uppercaseConfirm = confirm('Would you like to use uppercase letters?');
   if (uppercaseConfirm) {
-      options += uppercase [Math.floor(Math.random() * uppercase.length)];
+      options += uppercase;
   }
   
   var numberConfirm = confirm('Would you like to use numbers?');
   if (numberConfirm) {
-    options += number [Math.floor(Math.random() * number.length)];
+    options += number;
   }
   
   var specialCharConfirm = confirm('Would you like to use special characters?');
   if (specialCharConfirm) {
-    options += symbol [Math.floor(Math.random() * symbol.length)];
+    options += symbol;
   }
 
   if (!lowercaseConfirm && !uppercaseConfirm && !numberConfirm && !specialCharConfirm) {
