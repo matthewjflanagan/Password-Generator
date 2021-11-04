@@ -1,11 +1,11 @@
-# <PASSWORD-GENERATOR>
+# PASSWORD GENERATOR
 
 ## Description
 In these modern times it is more important than ever to have a secure password! Remove the bias and possibility of passwords that are too simple with this Password Generator. You can select whether you'd like Uppercase letters, Lowercase letters, numbers, or special characters as well as a length from 8 - 128!
 
 I came away from designing this website with a deeper understanding of the ability to create multiple functions and have them operate as an array so that the website is able to pull information like from a list but each options can then present another range of options. 
 
-## Table of Contents (Optional)
+## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
@@ -15,14 +15,13 @@ I came away from designing this website with a deeper understanding of the abili
 To start I needed to make the variable that are included in the javascript. For this it was the uppercase letters, lowercase letters, numbers, and special characters. Each variable was assigned a string with the corresponding content per description. I then needed to make a function that would allow the user to select which options he'd like to include in the password as well as the length of the password. I then needed to have each option selected to be randomized and produce the password based on the user's criteria. 
 
 ## Usage
-<div>
-<img src="Password-Generator\assests\Screenshot.PNG" alt="screenshot of password Generator"/>
+Deployed website: https://matthewjflanagan.github.io/Password-Generator/
 
-<a href="https://matthewjflanagan.github.io/portfolio-website/">This is a link to Horiseon's Webpage</a>
-</div>
+![Screenshot of Webpage](assests/Screenshot.PNG)
+
 ## Credits
 
-Major shoutout to the BCS Learning Assistants, they were all extremely helpful and professional going so far as hoping on Zoom calls to make sure my questions were answered. Office hour recordings were also extremely helpful in mapping out how to randomize the content as well as the all mighty power of Google and specifically StackOverflow. <a href="https://stackoverflow.com/questions/59340866/random-password-generator-javascript-not-working /"> This is the forum I found most helpful </a>
+Major shoutout to the BCS Learning Assistants, they were all extremely helpful and professional going so far as hoping on Zoom calls to make sure my questions were answered. Office hour recordings were also extremely helpful in mapping out how to randomize the content as well as the all mighty power of  StackOverflow. <a href="https://stackoverflow.com/questions/59340866/random-password-generator-javascript-not-working /"> This is the forum I found most helpful </a>
 
 ## License
 MIT License
