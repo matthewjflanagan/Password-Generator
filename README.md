@@ -1,4 +1,4 @@
-# <matthew-flanagan's-portfolio>
+# <PASSWORD-GENERATOR>
 
 ## Description
 In these modern times it is more important than ever to have a secure password! Remove the bias and possibility of passwords that are too simple with this Password Generator. You can select whether you'd like Uppercase letters, Lowercase letters, numbers, or special characters as well as a length from 8 - 128!
@@ -49,5 +49,6 @@ SOFTWARE.
 
 ## Features
 Learn more about my background and why I chose to enter the field of coding. YOu can also view the work I have completed recently and contact information is available if you would like to reach out and speak with me personally. 
+
 ## How to Contribute
 If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
